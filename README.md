@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistics, probability and systems design
 - 🌱 I’m currently learning machine learning tools for python and julia
 - 💞️ I’m looking to collaborate on ... anything?
-- 📫 The best way to contact me is via email at ethanjgomez@protonmail.com
+- 📫 The best way to contact me is via email at ethanjg6@icloud.com
 
 <!---
 ethanjgomez/ethanjgomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
